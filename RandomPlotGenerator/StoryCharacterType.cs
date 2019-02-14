@@ -1,4 +1,4 @@
-﻿namespace RandomPlotGenerator.Models
+﻿namespace RandomPlotGenerator
 {
     public enum StoryCharacterType
     {

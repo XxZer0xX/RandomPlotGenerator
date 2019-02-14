@@ -1,6 +1,4 @@
-﻿using RandomPlotGenerator.Models;
-
-namespace RandomPlotGenerator
+﻿namespace RandomPlotGenerator.Models
 {
     public class PlotElements
     {
