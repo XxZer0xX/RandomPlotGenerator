@@ -85,6 +85,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="Data\Adjective.json" />
+    <None Include="Data\Adverb.json" />
+    <None Include="Data\Age.json" />
+    <None Include="Data\Noun.json" />
+    <None Include="Data\StoryParts.json" />
+    <None Include="Data\Verb.json" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
